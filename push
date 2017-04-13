@@ -1,2 +1,7 @@
-ghp-import output -b master && git push origin master
-echo "Turn to https://duinodu.github.io"
+git clone https://github.com/hustcv/hustcv.github.io
+mv hustcv.github.io output
+make html
+cd output
+git add .
+git commit -m "new commit"
+git push
