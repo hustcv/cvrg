@@ -1,7 +1,7 @@
 # cvrg
 src for hustcv.github.io
 
-# How to add new blog
+# How to add a new blog
 ```
 pip install pelican markdown
 git clone http://github.com/hustcv/cvrg
@@ -13,4 +13,4 @@ cd cvrg
 git add . && git commit -m "new blog" && git push
 ```
 
-Only members of **hustcv** are allowed to push new blog.
+Only members of [**hustcv**](https://github.com/hustcv) are allowed to push new blog.
