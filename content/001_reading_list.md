@@ -13,3 +13,4 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 6. Feature Pyramid Networks for Object Detection [paper](https://arxiv.org/pdf/1612.03144.pdf)
 7. Detecting Text in Natural Image with Connectionist Text Proposal Network [paper](https://arxiv.org/pdf/1609.03605.pdf)
 8. [[read](http://hustcv.github.io)] A-Fast-RCNN: Hard positive generation via adversary for object detection [paper](https://arxiv.org/pdf/1704.03414.pdf) [github](https://github.com/xiaolonw/adversarial-frcnn)
+9. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [paper](https://arxiv.org/pdf/1606.00915.pdf) [pytorch](https://github.com/isht7/pytorch-deeplab-resnet)
