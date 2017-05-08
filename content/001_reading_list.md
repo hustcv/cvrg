@@ -15,12 +15,15 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 6. Feature Pyramid Networks for Object Detection [paper](https://arxiv.org/pdf/1612.03144.pdf)
 7. Detecting Text in Natural Image with Connectionist Text Proposal Network [paper](https://arxiv.org/pdf/1609.03605.pdf)
 8. [[read](http://hustcv.github.io)] A-Fast-RCNN: Hard positive generation via adversary for object detection [paper](https://arxiv.org/pdf/1704.03414.pdf) [github](https://github.com/xiaolonw/adversarial-frcnn)
-
 9. [[read]()] Generative Adversarial Networks [paper](https://arxiv.org/abs/1406.2661)
-10. [[read]()] Mask R-CNN [paper](https://arxiv.org/pdf/1703.06870.pdf) [tf](https://github.com/CharlesShang/FastMaskRCNN)
-11. Unsupervised Learning of Depth and Ego-Motion from Video [paper](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf) [github](https://github.com/tinghuiz/SfMLearner)
+10. Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization [paper](https://arxiv.org/abs/1606.04446) [caffe](https://github.com/gidariss/AttractioNet)
 
 
 ## Semantic Image Segmentation
 1. Semantic Image Sementation with Deep Convolutional Nets and Fully Connected CRF [paper](https://arxiv.org/pdf/1412.7062.pdf)
-2. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [paper](https://arxiv.org/pdf/1606.00915.pdf) [pytorch](https://github.com/isht7/pytorch-deeplab-resnet)
+2. Fully Convolutional Networks for Semantic Segmentation [paper](https://people.eecs.berkeley.edu/%7Ejonlong/long_shelhamer_fcn.pdf) [caffe](https://github.com/shelhamer/fcn.berkeleyvision.org)
+3. [[read]()] Mask R-CNN [paper](https://arxiv.org/pdf/1703.06870.pdf) [tf](https://github.com/CharlesShang/FastMaskRCNN)
+4. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [paper](https://arxiv.org/pdf/1606.00915.pdf) [pytorch](https://github.com/isht7/pytorch-deeplab-resnet)
+
+## Others
+1. Unsupervised Learning of Depth and Ego-Motion from Video [paper](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf) [github](https://github.com/tinghuiz/SfMLearner)
