@@ -17,6 +17,7 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 8. [[read](http://hustcv.github.io)] A-Fast-RCNN: Hard positive generation via adversary for object detection [paper](https://arxiv.org/pdf/1704.03414.pdf) [github](https://github.com/xiaolonw/adversarial-frcnn)
 9. [[read]()] Generative Adversarial Networks [paper](https://arxiv.org/abs/1406.2661)
 10. Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization [paper](https://arxiv.org/abs/1606.04446) [caffe](https://github.com/gidariss/AttractioNet)
+11. Spatial Memory for Context Reasoning in Object Detection [paper](https://arxiv.org/pdf/1704.04224.pdf)
 
 
 ## Semantic Image Segmentation
