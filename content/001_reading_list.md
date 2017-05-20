@@ -13,11 +13,16 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 4. R-FCN: Object Detection via Region-based Fully Convolutional Networks [paper](https://arxiv.org/pdf/1605.06409)
 5. Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks [paper](https://arxiv.org/pdf/1512.04143.pdf)
 6. Feature Pyramid Networks for Object Detection [paper](https://arxiv.org/pdf/1612.03144.pdf)
-7. Detecting Text in Natural Image with Connectionist Text Proposal Network [paper](https://arxiv.org/pdf/1609.03605.pdf)
-8. [[read](http://hustcv.github.io)] A-Fast-RCNN: Hard positive generation via adversary for object detection [paper](https://arxiv.org/pdf/1704.03414.pdf) [github](https://github.com/xiaolonw/adversarial-frcnn)
-9. [[read]()] Generative Adversarial Networks [paper](https://arxiv.org/abs/1406.2661)
-10. Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization [paper](https://arxiv.org/abs/1606.04446) [caffe](https://github.com/gidariss/AttractioNet)
-11. Spatial Memory for Context Reasoning in Object Detection [paper](https://arxiv.org/pdf/1704.04224.pdf)
+7. [[read](http://hustcv.github.io)] A-Fast-RCNN: Hard positive generation via adversary for object detection [paper](https://arxiv.org/pdf/1704.03414.pdf) [github](https://github.com/xiaolonw/adversarial-frcnn)
+8. [[read]()] Generative Adversarial Networks [paper](https://arxiv.org/abs/1406.2661)
+9. Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization [paper](https://arxiv.org/abs/1606.04446) [caffe](https://github.com/gidariss/AttractioNet)
+10. Spatial Memory for Context Reasoning in Object Detection [paper](https://arxiv.org/pdf/1704.04224.pdf)
+11. Accurate Single Stage Detector Using Recurrent Rolling Convolution [paper](https://arxiv.org/pdf/1704.05776.pdf)
+12. ME R-CNN: Multi-Expert Region-based CNN for Object Detection [paper](https://arxiv.org/pdf/1704.01069.pdf)
+
+## Text detection
+1. Detecting Text in Natural Image with Connectionist Text Proposal Network [paper](https://arxiv.org/pdf/1609.03605.pdf)
+2. EAST: An Efficient and Accurate Scene Text Detector [paper](https://arxiv.org/pdf/1704.03155.pdf)
 
 ## Semantic Image Segmentation
 1. Semantic Image Sementation with Deep Convolutional Nets and Fully Connected CRF [paper](https://arxiv.org/pdf/1412.7062.pdf)
