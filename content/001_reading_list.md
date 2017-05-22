@@ -15,11 +15,11 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 6. Feature Pyramid Networks for Object Detection [paper](https://arxiv.org/pdf/1612.03144.pdf)
 7. [[read](http://hustcv.github.io)] A-Fast-RCNN: Hard positive generation via adversary for object detection [paper](https://arxiv.org/pdf/1704.03414.pdf) [github](https://github.com/xiaolonw/adversarial-frcnn)
 8. [[read]()] Generative Adversarial Networks [paper](https://arxiv.org/abs/1406.2661)
-9. [[read](http://hustcv.github.io)]Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization [paper](https://arxiv.org/abs/1606.04446) [caffe](https://github.com/gidariss/AttractioNet)
-10. [[read](http://hustcv.github.io)]Spatial Memory for Context Reasoning in Object Detection [paper](https://arxiv.org/pdf/1704.04224.pdf)
+9. [[read](http://hustcv.github.io)] Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization [paper](https://arxiv.org/abs/1606.04446) [caffe](https://github.com/gidariss/AttractioNet)
+10. [[read](http://hustcv.github.io)] Spatial Memory for Context Reasoning in Object Detection [paper](https://arxiv.org/pdf/1704.04224.pdf)
 11. Accurate Single Stage Detector Using Recurrent Rolling Convolution [paper](https://arxiv.org/pdf/1704.05776.pdf)
 12. ME R-CNN: Multi-Expert Region-based CNN for Object Detection [paper](https://arxiv.org/pdf/1704.01069.pdf)
-13. Beyond Skip Connections: Top-Down Modulation for Object Detection [paper](https://arxiv.org/pdf/1612.06851.pdf)
+13. [[read](http://hustcv.github.io)] Beyond Skip Connections: Top-Down Modulation for Object Detection [paper](https://arxiv.org/pdf/1612.06851.pdf)
 
 ## Text detection
 1. Detecting Text in Natural Image with Connectionist Text Proposal Network [paper](https://arxiv.org/pdf/1609.03605.pdf)
