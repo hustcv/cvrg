@@ -20,16 +20,27 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 11. Accurate Single Stage Detector Using Recurrent Rolling Convolution [paper](https://arxiv.org/pdf/1704.05776.pdf)
 12. ME R-CNN: Multi-Expert Region-based CNN for Object Detection [paper](https://arxiv.org/pdf/1704.01069.pdf)
 13. [[read](http://hustcv.github.io)] Beyond Skip Connections: Top-Down Modulation for Object Detection [paper](https://arxiv.org/pdf/1612.06851.pdf)
+14. Improving Object Detection With One Line of Code [paper](https://arxiv.org/pdf/1704.04503.pdf)
+15. S-OHEM: Stratified Online Hard Example Mining for Object Detection [paper](https://arxiv.org/pdf/1705.02233.pdf)
+16. Adaptive Object Detection Using Adjacency and Zoom Prediction [paper](https://arxiv.org/pdf/1512.07711.pdf) [caffe](https://github.com/luyongxi/az-net)
+
+
 
 ## Text detection
 1. Detecting Text in Natural Image with Connectionist Text Proposal Network [paper](https://arxiv.org/pdf/1609.03605.pdf)
 2. EAST: An Efficient and Accurate Scene Text Detector [paper](https://arxiv.org/pdf/1704.03155.pdf)
+
 
 ## Semantic Image Segmentation
 1. Semantic Image Sementation with Deep Convolutional Nets and Fully Connected CRF [paper](https://arxiv.org/pdf/1412.7062.pdf)
 2. Fully Convolutional Networks for Semantic Segmentation [paper](https://people.eecs.berkeley.edu/%7Ejonlong/long_shelhamer_fcn.pdf) [caffe](https://github.com/shelhamer/fcn.berkeleyvision.org)
 3. [[read]()] Mask R-CNN [paper](https://arxiv.org/pdf/1703.06870.pdf) [tf](https://github.com/CharlesShang/FastMaskRCNN)
 4. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [paper](https://arxiv.org/pdf/1606.00915.pdf) [pytorch](https://github.com/isht7/pytorch-deeplab-resnet)
+
+
+## Visual Reasoning
+1. Inferring and Executing Programs for Visual Reasoning [paper](https://arxiv.org/pdf/1705.03633.pdf) [pytorch](https://github.com/facebookresearch/clevr-iep)
+
 
 ## Others
 1. Unsupervised Learning of Depth and Ego-Motion from Video [paper](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf) [github](https://github.com/tinghuiz/SfMLearner)
