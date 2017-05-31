@@ -25,7 +25,7 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 16. Adaptive Object Detection Using Adjacency and Zoom Prediction [paper](https://arxiv.org/pdf/1512.07711.pdf) [caffe](https://github.com/luyongxi/az-net)
 17. You Only Look Once: Unified, Real-Time Object Detection [paper](https://arxiv.org/pdf/1506.02640.pdf) 
 18. YOLO9000: Better, Faster, Stronger [paper](https://arxiv.org/pdf/1612.08242.pdf) 
-19. Deformable Convolutional Networks (paper)[https://arxiv.org/abs/1703.06211] [mxnet](https://github.com/msracver/Deformable-ConvNets)
+19. Deformable Convolutional Networks [paper](https://arxiv.org/abs/1703.06211) [mxnet](https://github.com/msracver/Deformable-ConvNets)
 
 
 
