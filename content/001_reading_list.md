@@ -41,6 +41,9 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 4. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [paper](https://arxiv.org/pdf/1606.00915.pdf) [pytorch](https://github.com/isht7/pytorch-deeplab-resnet)
 5. [[read]()] Fully Convolutional Instance-aware Semantic Segmentation [paper](https://arxiv.org/pdf/1611.07709.pdf) [mxnet](https://github.com/msracver/FCIS)
 
+## Recognition and Detection in 3D
+1. 3D ShapeNets: A Deep Representation for Volumetric Shapes [paper](https://arxiv.org/pdf/1406.5670.pdf) [matlab](https://github.com/zhirongw/3DShapeNets)
+2. VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition [paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7353481) [Lasagne](https://github.com/dimatura/voxnet)
 
 ## Visual Reasoning
 1. Inferring and Executing Programs for Visual Reasoning [paper](https://arxiv.org/pdf/1705.03633.pdf) [pytorch](https://github.com/facebookresearch/clevr-iep)
