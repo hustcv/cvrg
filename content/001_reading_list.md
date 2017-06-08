@@ -49,6 +49,13 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 1. Inferring and Executing Programs for Visual Reasoning [paper](https://arxiv.org/pdf/1705.03633.pdf) [pytorch](https://github.com/facebookresearch/clevr-iep)
 
 
-## Others
+## Human motion
 1. Unsupervised Learning of Depth and Ego-Motion from Video [paper](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf) [github](https://github.com/tinghuiz/SfMLearner)
 
+## CNN and its property
+1. Group Invariant Scattering [paper](https://arxiv.org/abs/1101.2286)
+2. Invariant Scattering Convolution Networks [paper](https://arxiv.org/pdf/1203.1513.pdf)
+3. Structured Receptive Fields in CNNs [paper](https://arxiv.org/pdf/1605.02971.pdf)
+4. Dynamic Filter Networks [paper](https://arxiv.org/pdf/1605.09673.pdf)
+5. Multiscale Hierarchical Convolutional Networks [paper](https://arxiv.org/abs/1703.04140)
+6. Structured and Efficient Variational Deep Learning with Matrix Gaussian Posteriors [paper](https://arxiv.org/abs/1603.04733)
