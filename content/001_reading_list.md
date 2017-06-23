@@ -40,6 +40,7 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 3. [[read]()] Mask R-CNN [paper](https://arxiv.org/pdf/1703.06870.pdf) [tf](https://github.com/CharlesShang/FastMaskRCNN)
 4. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [paper](https://arxiv.org/pdf/1606.00915.pdf) [pytorch](https://github.com/isht7/pytorch-deeplab-resnet)
 5. [[read]()] Fully Convolutional Instance-aware Semantic Segmentation [paper](https://arxiv.org/pdf/1611.07709.pdf) [mxnet](https://github.com/msracver/FCIS)
+6. Loss Max-Pooling for Semantic Image Segmentation [paper](https://arxiv.org/pdf/1704.02966.pdf) 
 
 ## Recognition and Detection in 3D
 1. 3D ShapeNets: A Deep Representation for Volumetric Shapes [paper](https://arxiv.org/pdf/1406.5670.pdf) [matlab](https://github.com/zhirongw/3DShapeNets)
