@@ -60,3 +60,6 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 4. Dynamic Filter Networks [paper](https://arxiv.org/pdf/1605.09673.pdf)
 5. Multiscale Hierarchical Convolutional Networks [paper](https://arxiv.org/abs/1703.04140)
 6. Structured and Efficient Variational Deep Learning with Matrix Gaussian Posteriors [paper](https://arxiv.org/abs/1603.04733)
+
+## Image classification
+1. Deep Residual Learning for Image Recognition [paper](https://arxiv.org/pdf/1512.03385.pdf)
