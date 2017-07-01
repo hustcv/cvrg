@@ -16,4 +16,4 @@ Summary: It is a list of people who are leading the object detection domain.
 8. Fast Face Detector Training Using Tailored Views [paper](http://rogerioferis.com/publications/KristinaICCV2013.pdf)
 9. Attribute-based People Search: Lessons Learnt from a Practical Surveillance System [paper](http://rogerioferis.com/publications/FerisICMR2014.pdf)
 10. Fully-adaptive Feature Sharing in Multi-Task Networks with Applications in Person Attribute Classification [paper](https://arxiv.org/pdf/1611.05377.pdf)
-11 .[BOOK] Visual Attributes [link](https://www.springer.com/us/book/9783319500751) [introduce](http://rogerioferis.com/publications/IntroductionToVisualAttributes.pdf)
+11. [BOOK] Visual Attributes [link](https://www.springer.com/us/book/9783319500751) [introduce](http://rogerioferis.com/publications/IntroductionToVisualAttributes.pdf)
