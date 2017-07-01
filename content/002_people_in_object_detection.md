@@ -83,3 +83,5 @@ Summary: It is a list of people who are leading the object detection domain.
 2. Simple does it: Weakly supervised instance and semantic segmentation [paper](https://arxiv.org/pdf/1603.07485.pdf)
 3. Learning non-maximum suppression [paper](https://arxiv.org/pdf/1705.02950.pdf)
 
+## Workshop
+1. [ICCV 2015 Tutorial on Tools for Efficient Object Detection](http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html)
