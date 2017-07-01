@@ -75,3 +75,7 @@ Summary: It is a list of people who are leading the object detection domain.
 12. Feature Pyramid Networks for Object Detection [paper](https://arxiv.org/abs/1612.03144)
 13. Mask R-CNN [paper](https://arxiv.org/abs/1703.06870)
 14. Detecting and Recognizing Human-Object Interactions [paper](https://arxiv.org/abs/1704.07333) 
+
+## [Ross Girshick](http://www.rossgirshick.info/)
+#### [arxiv paper list](https://arxiv.org/find/cs/1/au:+Girshick_R/0/1/0/all/0/1) :white_check_mark: 
+
