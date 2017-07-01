@@ -19,6 +19,7 @@ Summary: It is a list of people who are leading the object detection domain.
 11. [BOOK] Visual Attributes [link](https://www.springer.com/us/book/9783319500751) [introduce](http://rogerioferis.com/publications/IntroductionToVisualAttributes.pdf)
 
 ## [Piotr Dollar](https://pdollar.github.io/)
+#### [blog](https://pdollar.wordpress.com/)
 1. Supervised Learning of Edges and Object Boundaries [paper](https://pdollar.github.io/files/papers/DollarCVPR06edge.pdf)
 2. Multiple Component Learning for Object Detection [paper](https://pdollar.github.io/files/papers/DollarECCV08mcl.pdf)
 3. Fast Feature Pyramids for Object Detection [paper](https://pdollar.github.io/files/papers/DollarPAMI14pyramids.pdf)
