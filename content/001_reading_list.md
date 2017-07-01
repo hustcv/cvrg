@@ -28,6 +28,8 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 19. Deformable Convolutional Networks [paper](https://arxiv.org/abs/1703.06211) [mxnet](https://github.com/msracver/Deformable-ConvNets)
 20. Learning Detection with Diverse Proposals [paper](https://arxiv.org/pdf/1704.03533.pdf) [caffe](https://github.com/azadis/LDDP)
 21. Feature Pyramid Networks for Object Detection [paper](https://arxiv.org/pdf/1612.03144.pdf)
+22. Learning Detection with Diverse Proposals [paper](https://arxiv.org/pdf/1704.03533.pdf) [caffe](https://github.com/azadis/LDDP)
+
 
 ## Text detection
 1. Detecting Text in Natural Image with Connectionist Text Proposal Network [paper](https://arxiv.org/pdf/1609.03605.pdf)
