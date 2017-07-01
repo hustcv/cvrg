@@ -61,6 +61,7 @@ Summary: It is a list of people who are leading the object detection domain.
 3. Learning non-maximum suppression [paper](https://arxiv.org/pdf/1705.02950.pdf)
  
 ## [Kaiming He](http://kaiminghe.com/)
+#### [arxiv paper list](https://arxiv.org/find/all/1/all:+AND+Kaiming+He/0/1/0/all/0/1) :white_check_mark: 
 1. Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition [paper](https://arxiv.org/pdf/1406.4729.pdf) [code](https://github.com/ShaoqingRen/SPP_net)
 2. Convolutional Neural Networks at Constrained Time Cost [paper](https://arxiv.org/pdf/1412.1710.pdf) 
 3. Efficient and Accurate Approximations of Nonlinear Convolutional Networks [paper](https://arxiv.org/pdf/1411.4229.pdf)
@@ -78,4 +79,7 @@ Summary: It is a list of people who are leading the object detection domain.
 
 ## [Ross Girshick](http://www.rossgirshick.info/)
 #### [arxiv paper list](https://arxiv.org/find/cs/1/au:+Girshick_R/0/1/0/all/0/1) :white_check_mark: 
+
+## [Trevor Darrell]
+#### [arxiv paper list](https://arxiv.org/find/all/1/all:+AND+Trevor+Darrell/0/1/0/all/0/1) :white_check_mark: 
 
