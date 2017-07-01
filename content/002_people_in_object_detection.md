@@ -5,6 +5,29 @@ Tags: detection
 Author: hustcv
 Summary: It is a list of people who are leading the object detection domain.
 
+## [Kaiming He](http://kaiminghe.com/)
+#### [arxiv paper list](https://arxiv.org/find/all/1/all:+AND+Kaiming+He/0/1/0/all/0/1) :white_check_mark: 
+1. Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition [paper](https://arxiv.org/pdf/1406.4729.pdf) [code](https://github.com/ShaoqingRen/SPP_net)
+2. Convolutional Neural Networks at Constrained Time Cost [paper](https://arxiv.org/pdf/1412.1710.pdf) 
+3. Efficient and Accurate Approximations of Nonlinear Convolutional Networks [paper](https://arxiv.org/pdf/1411.4229.pdf)
+4. ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation [paper](http://arxiv.org/abs/1604.05144)
+5. Instance-aware Semantic Segmentation via Multi-task Network Cascades [paper](https://arxiv.org/abs/1512.04412)
+6. Deep Residual Learning for Image Recognition [paper](http://arxiv.org/abs/1512.03385)
+7. Identity Mappings in Deep Residual Networks [paper](http://arxiv.org/abs/1603.05027)
+8. Instance-sensitive Fully Convolutional Networks [paper](http://arxiv.org/abs/1603.08678)
+9. Is Faster R-CNN Doing Well for Pedestrian Detection? [paper](http://arxiv.org/abs/1607.07032)
+10. R-FCN: Object Detection via Region-based Fully Convolutional Networks [paper](http://arxiv.org/abs/1605.06409)
+11. Aggregated Residual Transformations for Deep Neural Networks [paper](https://arxiv.org/abs/1611.05431)
+12. Feature Pyramid Networks for Object Detection [paper](https://arxiv.org/abs/1612.03144)
+13. Mask R-CNN [paper](https://arxiv.org/abs/1703.06870)
+14. Detecting and Recognizing Human-Object Interactions [paper](https://arxiv.org/abs/1704.07333) 
+
+## [Ross Girshick](http://www.rossgirshick.info/)
+#### [arxiv paper list](https://arxiv.org/find/cs/1/au:+Girshick_R/0/1/0/all/0/1) :white_check_mark: 
+
+## [Trevor Darrell](https://www2.eecs.berkeley.edu/Faculty/Homepages/darrell.html)
+#### [arxiv paper list](https://arxiv.org/find/all/1/all:+AND+Trevor+Darrell/0/1/0/all/0/1) :white_check_mark: 
+
 ## [Rogerio Feris](http://rogerioferis.com)
 1. S3Pool: Pooling with Stochastic Spatial Sampling [paper](https://arxiv.org/pdf/1611.05138.pdf) [code](https://github.com/Shuangfei/s3pool)
 2. Deep Domain Adaptation for Describing People Based on Fine-Grained Clothing Attributes [paper](http://rogerioferis.com/publications/DDANCVPR2015.pdf)
@@ -59,27 +82,4 @@ Summary: It is a list of people who are leading the object detection domain.
 1. A convnet for non-maximum suppression [paper](https://arxiv.org/pdf/1511.06437.pdf)
 2. Simple does it: Weakly supervised instance and semantic segmentation [paper](https://arxiv.org/pdf/1603.07485.pdf)
 3. Learning non-maximum suppression [paper](https://arxiv.org/pdf/1705.02950.pdf)
- 
-## [Kaiming He](http://kaiminghe.com/)
-#### [arxiv paper list](https://arxiv.org/find/all/1/all:+AND+Kaiming+He/0/1/0/all/0/1) :white_check_mark: 
-1. Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition [paper](https://arxiv.org/pdf/1406.4729.pdf) [code](https://github.com/ShaoqingRen/SPP_net)
-2. Convolutional Neural Networks at Constrained Time Cost [paper](https://arxiv.org/pdf/1412.1710.pdf) 
-3. Efficient and Accurate Approximations of Nonlinear Convolutional Networks [paper](https://arxiv.org/pdf/1411.4229.pdf)
-4. ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation [paper](http://arxiv.org/abs/1604.05144)
-5. Instance-aware Semantic Segmentation via Multi-task Network Cascades [paper](https://arxiv.org/abs/1512.04412)
-6. Deep Residual Learning for Image Recognition [paper](http://arxiv.org/abs/1512.03385)
-7. Identity Mappings in Deep Residual Networks [paper](http://arxiv.org/abs/1603.05027)
-8. Instance-sensitive Fully Convolutional Networks [paper](http://arxiv.org/abs/1603.08678)
-9. Is Faster R-CNN Doing Well for Pedestrian Detection? [paper](http://arxiv.org/abs/1607.07032)
-10. R-FCN: Object Detection via Region-based Fully Convolutional Networks [paper](http://arxiv.org/abs/1605.06409)
-11. Aggregated Residual Transformations for Deep Neural Networks [paper](https://arxiv.org/abs/1611.05431)
-12. Feature Pyramid Networks for Object Detection [paper](https://arxiv.org/abs/1612.03144)
-13. Mask R-CNN [paper](https://arxiv.org/abs/1703.06870)
-14. Detecting and Recognizing Human-Object Interactions [paper](https://arxiv.org/abs/1704.07333) 
-
-## [Ross Girshick](http://www.rossgirshick.info/)
-#### [arxiv paper list](https://arxiv.org/find/cs/1/au:+Girshick_R/0/1/0/all/0/1) :white_check_mark: 
-
-## [Trevor Darrell]
-#### [arxiv paper list](https://arxiv.org/find/all/1/all:+AND+Trevor+Darrell/0/1/0/all/0/1) :white_check_mark: 
 
