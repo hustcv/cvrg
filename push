@@ -1,12 +1,13 @@
 git clone git@github.com:hustcv/hustcv.github.io
 mv hustcv.github.io output
 make html
-cd output
+mv output .. && cd ../output
 git add .
 git commit -m "new commit"
 git push
+cd .. && rm output -r
 
-cd ..
+cd cvrg
 git add .
 git commit -m "new commit"
 git push

@@ -1,8 +1,7 @@
-
 Title: Reading List
 Date: 2017-04-14 14:40
 Category: List
-Tags: detection
+Tags: detection,segmentation,lightweight
 Author: hustcv
 Summary: It is a paper list from which we choose to read. New papers will be added on.
 

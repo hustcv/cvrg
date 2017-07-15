@@ -1,8 +1,8 @@
 Title: People in object detection
 Date: 2017-07-01 14:40
-Category: List
-Tags: detection
-Author: hustcv
+Category: list
+Tags: detection, people
+Author: dumin
 Summary: It is a list of people who are leading the object detection domain.
 
 ## [Kaiming He](http://kaiminghe.com/)
