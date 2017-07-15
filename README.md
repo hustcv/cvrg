@@ -5,6 +5,8 @@ src for hustcv.github.io
 ```
 pip install pelican markdown
 git clone http://github.com/hustcv/cvrg
+git clone https://github.com/jody-frankowski/blue-penguin
+# set theme path(blue-penguin path) in cvrg/pelicanconf.py
 
 # Add blog into content
 
