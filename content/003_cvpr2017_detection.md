@@ -2,7 +2,7 @@ Title: Object detection in CVPR2017 Date: 2017-07-16 7:44 Category: List Tags: d
 
 [cvpr2017](http://www.cvpapers.com/cvpr2017.html)
 
-#### detector
+## detector
 1. Accurate Single Stage Detector Using Recurrent Rolling Convolution [paper](https://arxiv.org/pdf/1704.05776.pdf)
 2. Training Object Class Detectors With Click Supervision [paper](http://calvin.inf.ed.ac.uk/wp-content/uploads/Publications/papadopoulos17cvpr.pdf)
 3. Self-Learning Scene-Specific Pedestrian Detectors Using a Progressive Latent Model [paper](https://arxiv.org/pdf/1611.07544.pdf)
@@ -12,7 +12,7 @@ Title: Object detection in CVPR2017 Date: 2017-07-16 7:44 Category: List Tags: d
 7. Expecting the Unexpected: Training Detectors for Unusual Pedestrians With Adversarial Imposters []()
 8. Learning Discriminative and Transformation Covariant Local Feature Detectors []()
 
-### detection
+## detection
   1. SRN: Side-output Residual Network for Object Symmetry Detection in the Wild
   2. Amodal Detection of 3D Objects: Inferring 3D Bounding Boxes From 2D Ones in RGB-Depth Images
   3. Transition Forests: Learning Discriminative Temporal Transitions for Action Recognition and Detection
