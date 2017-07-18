@@ -1,12 +1,18 @@
+#!/bin/bash
+
+# make html
 git clone git@github.com:hustcv/hustcv.github.io
 mv hustcv.github.io output
 make html
+
+# push html
 mv output .. && cd ../output
 git add .
 git commit -m "new commit"
 git push
-cd .. && rm output -r
+cd .. && rm output -rf
 
+# push cvrg
 cd cvrg
 git add .
 git commit -m "new commit"
