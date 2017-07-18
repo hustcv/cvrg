@@ -15,6 +15,4 @@ cd cvrg
 git add . && git commit -m "new blog" && git push
 ```
 
-test fangfgang
-
 Only members of [**hustcv**](https://github.com/hustcv) are allowed to push new blog.
