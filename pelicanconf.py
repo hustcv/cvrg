@@ -52,7 +52,7 @@ CATEGORIES_URL     = 'categories'
 CATEGORIES_SAVE_AS = 'categories/index.html'
 ARCHIVES_URL       = 'archives'
 ARCHIVES_SAVE_AS   = 'archives/index.html'
-NOTES_URL		   = 'notes'
+NOTES_URL	   = 'notes'
 NOTES_SAVE_AS      = 'notes/index.html'
 # use those if you want pelican standard pages to appear in your menu
 MENU_INTERNAL_PAGES = (
@@ -60,7 +60,7 @@ MENU_INTERNAL_PAGES = (
         ('Tags', TAGS_URL, TAGS_SAVE_AS),
         ('Authors', AUTHORS_URL, AUTHORS_SAVE_AS),
         ('Categories', CATEGORIES_URL, CATEGORIES_SAVE_AS),
-		('Notes',NOTE_URL,NOTE_SAVE_AS),
+	('Notes',NOTES_URL,NOTES_SAVE_AS),
         )
 # additional menu items
 MENUITEMS = (

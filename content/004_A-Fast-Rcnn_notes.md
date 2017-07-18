@@ -1,10 +1,16 @@
-##A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection
+Title: A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection
+Date: 2017-07-18 19:54
+Category: Paper
+Tags: detection, adversarial
+Author: fangfang, xiuhong
+Summary: Paper reading notes.
+
+
 [paper](https://arxiv.org/abs/1704.03414)
 
 
-
 ##一、论文思想
-    训练一个目标检测器，对遮挡和形变鲁棒，目前的主要方法是增加不同场景下的图像数据，但这些数据有时又特别少。作者提出使用对抗生成有遮挡或形变的样本，这些样本对检测器来说识别比较困难，使用这些困难的正样本训练可以增加检测器的鲁棒性。 使用对抗网络生成有遮挡和有形变的两种特征，分别对应网络ASDN和ASTN。使用对抗网络生成有遮挡和有形变的两种特征，分别对应网络ASDN和ASTN。
+训练一个目标检测器，对遮挡和形变鲁棒，目前的主要方法是增加不同场景下的图像数据，但这些数据有时又特别少。作者提出使用对抗生成有遮挡或形变的样本，这些样本对检测器来说识别比较困难，使用这些困难的正样本训练可以增加检测器的鲁棒性。 使用对抗网络生成有遮挡和有形变的两种特征，分别对应网络ASDN和ASTN。使用对抗网络生成有遮挡和有形变的两种特征，分别对应网络ASDN和ASTN。
 
 
 ###1.ASDN
@@ -64,4 +70,4 @@ Lz对应化简公式的第二项，其中e的指数项x在两种情况下，均�
 * 论文代码：https://github.com/xiaolonw/adversarial-frcnn  
 
 ##关于作者
-edited by [fangfang](https://github.com/orgs/hustcv/people/galaxy-fangfang) [xiuhong](https://github.com/orgs/hustcv/people/summerZXH)
+Edited by [fangfang](https://github.com/orgs/hustcv/people/galaxy-fangfang) [xiuhong](https://github.com/orgs/hustcv/people/summerZXH)

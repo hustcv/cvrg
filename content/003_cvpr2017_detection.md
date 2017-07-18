@@ -1,4 +1,8 @@
-Title: Object detection in CVPR2017 Date: 2017-07-16 7:44 Category: List Tags: detection,cvpr Author: hustcv Summary: It is a paper list about object detecton in cvpr2017.
+Title: Object detection in CVPR2017 
+Date: 2017-07-16 7:44 
+Category: List 
+Tags: detection,cvpr 
+Author: hustcv Summary: It is a paper list about object detecton in cvpr2017.
 
 [cvpr2017](http://www.cvpapers.com/cvpr2017.html)
 
