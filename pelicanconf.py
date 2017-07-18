@@ -7,6 +7,7 @@ SITENAME = u'Computer Vision Reading Group'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['images', 'pdfs']
 
 TIMEZONE = 'Asia/Chongqing'
 
