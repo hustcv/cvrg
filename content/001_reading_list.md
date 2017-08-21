@@ -31,7 +31,6 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 22. [[read](http://blog.csdn.net/duinodu/article/details/75013528)] RON: Reverse Connection with Objectness Prior Networks for Object Detection  [paper](Towards lightweight convolutional neural networks for object detection)
 
 ## Text detection
-1. Detecting Text in Natural Image with Connectionist Text Proposal Network [paper](https://arxiv.org/pdf/1609.03605.pdf)
 2. EAST: An Efficient and Accurate Scene Text Detector [paper](https://arxiv.org/pdf/1704.03155.pdf)
 
 
@@ -42,8 +41,10 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 4. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [paper](https://arxiv.org/pdf/1606.00915.pdf) [pytorch](https://github.com/isht7/pytorch-deeplab-resnet)
 5. [[read]()] Fully Convolutional Instance-aware Semantic Segmentation [paper](https://arxiv.org/pdf/1611.07709.pdf) [mxnet](https://github.com/msracver/FCIS)
 6. Loss Max-Pooling for Semantic Image Segmentation [paper](https://arxiv.org/pdf/1704.02966.pdf) 
-7. [[read]()] Mask R-CNN [paper](https://arxiv.org/pdf/1703.06870.pdf) [tf](https://github.com/CharlesShang/FastMaskRCNN)
 
+## Detection with Segmentation
+1. Detecting Text in Natural Image with Connectionist Text Proposal Network [paper](https://arxiv.org/pdfhttps://arxiv.org/pdf/1612.07695.pdf/1609.03605.pdf)
+2. [[read]()] Mask R-CNN [paper](https://arxiv.org/pdf/1703.06870.pdf) [tf](https://github.com/CharlesShang/FastMaskRCNN)
 
 ## Recognition and Detection in 3D
 1. 3D ShapeNets: A Deep Representation for Volumetric Shapes [paper](https://arxiv.org/pdf/1406.5670.pdf) [matlab](https://github.com/zhirongw/3DShapeNets)
