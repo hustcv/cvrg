@@ -67,6 +67,8 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 
 ## Image classification
 1. Deep Residual Learning for Image Recognition [paper](https://arxiv.org/pdf/1512.03385.pdf)
-
 ## Lightweight CNN
 1. Towards lightweight convolutional neural networks for object detection [paper](https://arxiv.org/pdf/1707.01395.pdf)
+
+## Accelerate Network
+1. Channel Pruning for Accelerating Very Deep Neural Networks [paper](https://arxiv.org/pdf/1707.06168.pdf) [caffe](https://github.com/yihui-he/channel-pruning)
