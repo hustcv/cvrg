@@ -5,6 +5,9 @@ Tags: detection,segmentation,lightweight
 Author: hustcv
 Summary: It is a paper list from which we choose to read. New papers will be added on.
 
+## Image classification
+1. Deep Residual Learning for Image Recognition [paper](https://arxiv.org/pdf/1512.03385.pdf)
+
 ## Object detection
 
 1. Rich feature hierarchies for accurate object detection and semantic segmentation [paper](https://arxiv.org/pdf/1311.2524)
@@ -53,10 +56,6 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 ## Visual Reasoning
 1. Inferring and Executing Programs for Visual Reasoning [paper](https://arxiv.org/pdf/1705.03633.pdf) [pytorch](https://github.com/facebookresearch/clevr-iep)
 
-
-## Human motion
-1. Unsupervised Learning of Depth and Ego-Motion from Video [paper](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf) [github](https://github.com/tinghuiz/SfMLearner)
-
 ## CNN and its property
 1. Group Invariant Scattering [paper](https://arxiv.org/abs/1101.2286)
 2. Invariant Scattering Convolution Networks [paper](https://arxiv.org/pdf/1203.1513.pdf)
@@ -65,10 +64,13 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 5. Multiscale Hierarchical Convolutional Networks [paper](https://arxiv.org/abs/1703.04140)
 6. Structured and Efficient Variational Deep Learning with Matrix Gaussian Posteriors [paper](https://arxiv.org/abs/1603.04733)
 
-## Image classification
-1. Deep Residual Learning for Image Recognition [paper](https://arxiv.org/pdf/1512.03385.pdf)
-## Lightweight CNN
+## Lightweight CNN and Accelerating Network
 1. Towards lightweight convolutional neural networks for object detection [paper](https://arxiv.org/pdf/1707.01395.pdf)
+2. Channel Pruning for Accelerating Very Deep Neural Networks [paper](https://arxiv.org/pdf/1707.06168.pdf) [caffe](https://github.com/yihui-he/channel-pruning)
 
-## Accelerate Network
-1. Channel Pruning for Accelerating Very Deep Neural Networks [paper](https://arxiv.org/pdf/1707.06168.pdf) [caffe](https://github.com/yihui-he/channel-pruning)
+## Image caption
+1. None
+
+## Human Pose Estimation
+1. Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [paper](https://arxiv.org/pdf/1705.00389.pdf)
+2. Unsupervised Learning of Depth and Ego-Motion from Video [paper](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf) [github](https://github.com/tinghuiz/SfMLearner)
