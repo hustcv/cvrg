@@ -69,7 +69,7 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 2. Channel Pruning for Accelerating Very Deep Neural Networks [paper](https://arxiv.org/pdf/1707.06168.pdf) [caffe](https://github.com/yihui-he/channel-pruning)
 
 ## Image caption
-1. None
+1. Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge [paper](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7505636)
 
 ## Human Pose Estimation
 1. Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [paper](https://arxiv.org/pdf/1705.00389.pdf)
