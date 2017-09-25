@@ -74,3 +74,7 @@ Summary: It is a paper list from which we choose to read. New papers will be add
 ## Human Pose Estimation
 1. Adversarial PoseNet: A Structure-aware Convolutional Network for Human Pose Estimation [paper](https://arxiv.org/pdf/1705.00389.pdf)
 2. Unsupervised Learning of Depth and Ego-Motion from Video [paper](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/cvpr17_sfm_final.pdf) [github](https://github.com/tinghuiz/SfMLearner)
+3. Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields [paper](https://arxiv.org/abs/1611.08050) [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+4. DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation [paper](https://arxiv.org/abs/1511.06645.pdf)
+5. DeeperCut: A Deeper, Stronger, and Faster Multi-Person Pose Estimation Model [paper](https://arxiv.org/pdf/1605.03170.pdf)  [single_person](https://github.com/eldar/deepcut-cnn)  [mutil_person](https://github.com/eldar/deepcut)
+5. Convolutional Pose Machines [paper](https://arxiv.org/abs/1602.00134) [github](https://github.com/shihenw/convolutional-pose-machines-release)
